@@ -2,7 +2,7 @@ partial modifier_keys
 xkb_symbols "swapkeys" {
   key <AB11> { [ underscore, backslash ] };
   key <MUHE>  { [ Escape, Escape ] };
-  key <HENK>  { [ BackSpace, BackSpace] };
+  key <HENK>  { [ Shift_L, Shift_L] };
   key <HKTG>  { [ Return, Return] };
   key <LALT>  { [ Control_L, Control_L] };
   key <LCTL>  { [ Alt_L, Alt_L] };
